@@ -105,7 +105,7 @@ Detalhes completos em [docs/autenticacao.md](docs/autenticacao.md).
 
 | Plano | Consultas/mes | Endpoints |
 |-------|---------------|-----------|
-| **Demo** | 3/minuto (somente `/api/consultar`) | Consulta IE |
+| **Free** | 50 | Todos |
 | **Starter** | 500 | Todos |
 | **Pro** | 5.000 | Todos |
 | **Enterprise** | Sob consulta | Todos + SLA dedicado |
