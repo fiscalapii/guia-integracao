@@ -118,6 +118,7 @@ Veja detalhes em [fiscalapi.com.br/precos](https://fiscalapi.com.br/precos).
 - **Documentacao completa**: [docs.fiscalapi.com.br](https://docs.fiscalapi.com.br)
 - **Dashboard**: [app.fiscalapi.com.br](https://app.fiscalapi.com.br)
 - **Status**: [status.fiscalapi.com.br](https://status.fiscalapi.com.br)
+- **Contato**: contato@fiscalapi.com.br
 
 ## Contribuicoes
 

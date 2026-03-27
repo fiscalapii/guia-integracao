@@ -38,4 +38,4 @@ Quer adicionar um exemplo em uma linguagem que ainda nao temos? Otimo!
 
 ## Duvidas
 
-Abra uma issue ou entre em contato via [fiscalapi.com.br](https://fiscalapi.com.br).
+Abra uma issue ou envie um email para contato@fiscalapi.com.br.
